@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfCompany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Company>
+    <route>
+      <route>Otopeni-Lisabona</route>
+    </route>
+    <client>
+      <id>1</id>
+      <name>das</name>
+      <fatherName>das</fatherName>
+      <birth>2019-02-20T15:53:04</birth>
+      <email>dsa</email>
+      <phone>as</phone>
+      <address>as</address>
+    </client>
+    <name>Tarom</name>
+  </Company>
+  <Company>
+    <route>
+      <route>Otopeni-Paris</route>
+    </route>
+    <client>
+      <id>2</id>
+      <name>dsa</name>
+      <fatherName>das</fatherName>
+      <birth>2019-03-20T15:53:17</birth>
+      <email>dsa</email>
+      <phone>as</phone>
+      <address>d</address>
+    </client>
+    <name>BlueAir</name>
+  </Company>
+</ArrayOfCompany>
